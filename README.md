@@ -1,0 +1,1 @@
+# nusantaracoin.py
